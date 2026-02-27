@@ -1,0 +1,4 @@
+router1 localhost 8084
+router2 localhost 8085
+router3 localhost 8086
+router4 localhost 8087
